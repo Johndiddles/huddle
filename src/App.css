@@ -11,6 +11,10 @@ body {
   background-color: blueviolet;
 }
 
+header {
+  padding-top: 2em;
+}
+
 header img {
   width: 10%;
 }
