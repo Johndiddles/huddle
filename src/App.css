@@ -84,5 +84,12 @@ footer i {
     padding: 4em 15%;
     justify-content: flex-start;
   }
+  main button {
+    padding: 1.2em;
+    border-radius: 60px;
+    width: 100%;
+    font-size: 1.1em;
+  }
+  
 }
 
